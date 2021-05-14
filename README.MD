@@ -51,11 +51,18 @@ I'm a developer that likes learning new things everyday, Currently I'm learning 
 
 <img  alt="GitHub"  src="https://img.shields.io/badge/Github%20-%23092E20.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
 
-<img  alt="Terminal"  src="https://img.shields.io/badge/Terminal%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=white&color=black" />
+
 </div>
 
 
+### Operating Systems
+<div style="displays: flex;">
+ 
+<img  alt="Terminal"  src="https://img.shields.io/badge/Linux%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=white&color=black" />
 
+
+
+</div>
 
 
 <br />
