@@ -26,6 +26,8 @@ I'm a developer that likes learning new things everyday, Currently I'm learning 
 <img  alt="React"  src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white" />
 <img  alt="Express"  src="https://img.shields.io/badge/express%20-%23092E20.svg?&style=for-the-badge&logo=express&logoColor=white" />
 <img  alt="Flask"  src="https://img.shields.io/badge/flask%20-%2314354C.svg?&style=for-the-badge&logo=flask&logoColor=white&color=black" />
+
+
 ## Databases:
 
 
