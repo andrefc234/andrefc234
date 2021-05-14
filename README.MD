@@ -7,7 +7,7 @@
 
 ### I'm a Developer!!
 
-I'm a developer that likes learning new things everyday, Currently I'm learning about Systems Programming with this books 
+I'm a developer that likes learning new things everyday, Currently I'm learning about Systems Programming 
 
 
 
