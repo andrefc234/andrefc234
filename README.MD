@@ -31,11 +31,11 @@ I'm a developer that likes learning new things everyday, Currently I'm learning 
 <img  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB%20-%23092E20.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ## and Tools:
-
-
+<img  alt="HTML5"  src="https://img.shields.io/badge/html5%20-%2314354C.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange" />
+<img  alt="CSS3"  src="https://img.shields.io/badge/CSS%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue" />
 <img  alt="Git"  src="https://img.shields.io/badge/GIT%20-%23092E20.svg?&style=for-the-badge&logo=git&logoColor=white&color=orange" />
 <img  alt="GitHub"  src="https://img.shields.io/badge/Github%20-%23092E20.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
-<img  alt="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img  alt="Terminal"  src="https://img.shields.io/badge/Terminal%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=white&color=black" />
 
 
 
